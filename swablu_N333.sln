@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Blend for Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "swablu_N333", "swablu_N333\swablu_N333.csproj", "{69F79DFA-8AC3-4657-893B-92F4EEBDB79A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69F79DFA-8AC3-4657-893B-92F4EEBDB79A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69F79DFA-8AC3-4657-893B-92F4EEBDB79A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69F79DFA-8AC3-4657-893B-92F4EEBDB79A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69F79DFA-8AC3-4657-893B-92F4EEBDB79A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6A030EB-4942-43F1-A987-460B13BB728B}
+	EndGlobalSection
+EndGlobal
